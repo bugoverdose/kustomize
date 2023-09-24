@@ -1,6 +1,6 @@
 ---
 title: "Components"
-linkTitle: "Components"
+linkTitle: "components"
 type: docs
 weight: 5
 description: >
@@ -16,8 +16,7 @@ optional features and you wish to enable only a subset of them in different
 overlays, i.e., different features for different environments or audiences.
 
 For more details regarding this feature you can read the
-[Kustomize Components KEP](https://github.com/kubernetes/enhancements/tree/master/keps/sig-cli/1802-kustomize-components)
-and the [components concept](/docs/concepts/components/) page.
+[Kustomize Components KEP](https://github.com/kubernetes/enhancements/tree/master/keps/sig-cli/1802-kustomize-components).
 
 ## Use case
 

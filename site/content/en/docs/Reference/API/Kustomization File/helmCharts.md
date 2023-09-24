@@ -7,13 +7,13 @@ description: >
     Helm chart inflation generator.
 ---
 
-[kustomize builtins]: https://kubectl.docs.kubernetes.io/references/kustomize/builtins/#_helmchartinflationgenerator_
+[HelmChartInflationGenerator]: /docs/reference/api/transformers/helmchartinflationgenerator/
 [Helm support long term plan]: https://github.com/kubernetes-sigs/kustomize/issues/4401
 
 ## Helm Chart Inflation Generator
 
 Kustomize has limited support for helm chart inflation through the `helmCharts` field.
-You can read a detailed description of this field in the docs about [kustomize builtins].
+You can read a detailed description of this field in the docs about [HelmChartInflationGenerator].
 
 To enable the helm chart inflation generator, you have to specify the `enable-helm` flag as follows:
 
